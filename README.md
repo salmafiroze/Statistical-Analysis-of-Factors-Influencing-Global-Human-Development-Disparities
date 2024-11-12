@@ -4,7 +4,9 @@ This repository contains the code and resources for the project "Statistical-Ana
 Project Overview:
 
 Objective: Identify and analyze the relationship between Human Development Index and its indicators
+
 Statistical Tests: Multiple Linear Regression, Anova Test, Correlation with scatter plot.
+
 Skills and Tools:
 R
 Data Visualization
